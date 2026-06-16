@@ -1,4 +1,4 @@
-Hi, I'm M. Triveni 👋
+Hi, I'm Masakapalli Triveni 👋
 
 🎓 B.Tech CSE (AI & ML) student at ANITS, Visakhapatnam
 
@@ -37,6 +37,8 @@ Expense management application built using React and Vite.
 
 * Live: https://trivenibudgettracker.netlify.app/dashboard
 * GitHub: https://github.com/MasakapalliTriveni-20/budget_tracker
+
+There are other projects also which i did do visit you may found interesting..!
 
 🔗 Connect with Me
 
